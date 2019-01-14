@@ -1,0 +1,92 @@
+.section_footer {
+  border-top: 1px solid #ebebeb !important;
+  border-bottom: 1px solid #ebebeb !important;
+}
+.container_footer {
+  max-width: 1280px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  width: 100% !important;
+}
+.container_list {
+  margin-right: 0px !important;
+  margin-top: 0px !important;
+  padding-bottom: 15px !important;
+  padding-left: 0px !important;
+  margin-bottom: 0px !important;
+  padding-top: 15px !important;
+  display: -moz-box !important;
+  display: -ms-flexbox !important;
+  display: -webkit-box !important;
+  display: -webkit-flex !important;
+  display: flex !important;
+  flex-wrap: wrap !important;
+  list-style: none !important;
+  margin-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.reason {
+  justify-content: center !important;
+  width: 25% !important;
+  text-align: left !important;
+  flex-direction: row !important;
+}
+
+.container_ {
+  -webkit-box-pack: center !important;
+  -webkit-flex-direction: column !important;
+  -ms-flex-direction: column !important;
+  -webkit-justify-content: center !important;
+  -webkit-box-orient: vertical !important;
+  -webkit-box-direction: normal !important;
+  -ms-flex-pack: center !important;
+  margin-left: auto !important;
+  max-width: 1280px !important;
+  margin-right: auto !important;
+  width: 100% !important;
+  display: -moz-box !important;
+  display: -ms-flexbox !important;
+  display: -webkit-box !important;
+  display: -webkit-flex !important;
+  display: flex !important;
+  justify-content: center !important;
+}
+
+.list {
+  list-style: none !important;
+  margin-bottom: 0px !important;
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+  margin-top: 0px !important;
+  padding-bottom: 0px !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  padding-top: 0px !important;
+  width: 100% !important;
+}
+.listTitle {
+  font-size: 18px !important;
+  font-weight: 600 !important;
+}
+.content_ {
+  padding-top: 10px !important;
+}
+.langSociaux {
+  -webkit-align-items: flex-end !important;
+  -webkit-flex-direction: column !important;
+  -ms-flex-direction: column !important;
+  -ms-flex-align: end !important;
+  -webkit-box-align: end !important;
+  -webkit-box-orient: vertical !important;
+  -webkit-box-direction: normal !important;
+  align-items: flex-end !important;
+  display: -moz-box !important;
+  display: -ms-flexbox !important;
+  display: -webkit-box !important;
+  display: -webkit-flex !important;
+  display: flex !important;
+  flex-direction: column !important;
+}

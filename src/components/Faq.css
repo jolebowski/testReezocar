@@ -1,0 +1,72 @@
+.bg_faq {
+  background-color: #eaeaea !important;
+}
+.container {
+  padding-top: 40px !important;
+  max-width: 1170px !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  padding-bottom: 40px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+.inner_faq {
+  -webkit-align-items: center !important;
+  -webkit-box-direction: normal !important;
+  -webkit-box-orient: vertical !important;
+  -webkit-box-align: center !important;
+  -ms-flex-align: center !important;
+  -ms-flex-direction: column !important;
+  -webkit-flex-direction: column !important;
+  background-color: white !important;
+  padding: 25px !important;
+  max-width: 810px !important;
+  margin: auto !important;
+  flex-direction: column !important;
+  display: -moz-box !important;
+  display: -ms-flexbox !important;
+  display: -webkit-box !important;
+  display: -webkit-flex !important;
+  display: flex !important;
+  align-items: center !important;
+}
+.inner_faq_title {
+  margin-bottom: 15px !important;
+  font-weights: 600px !important;
+  font-size: 27px !important;
+}
+.inner_faq_content {
+  margin-bottom: 15px !important;
+  text-align: center !important;
+  font-size: 20px !important;
+}
+span > a {
+  font-weight: 600;
+  color: inherit;
+  cursor: pointer;
+  text-decoration: none;
+}
+.inner_end {
+  color: #f29400 !important;
+  font-size: 18px !important;
+  display: flex;
+}
+.button_end {
+  background-color: #313131 !important;
+  border-style: solid !important;
+  border-color: transparent !important;
+  border-radius: 2px !important;
+  cursor: pointer !important;
+  font-size: 18px !important;
+  color: #fff !important;
+  border-width: 1px !important;
+  margin-top: 0px !important;
+  margin-right: 0px !important;
+  margin-bottom: 0px !important;
+  min-height: 46px !important;
+  padding-left: 25px !important;
+  padding-right: 25px !important;
+  transition: background-color 200ms ease-in-out, color 200ms ease-in-out,
+    border-color 200ms ease-in-out !important;
+  margin-left: 25px !important;
+}
